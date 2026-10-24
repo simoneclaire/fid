@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simone LeBlanc</title>
+</head>
+<body>
+
+    <header>
+        <h1>Simone LeBlanc</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>About Me</h2>
+            <p>Hi! My name is Simone LeBlanc, and I'm a Digital Media student at Seminole State College planning to transfer to UCF. My main interest is graphic design, but I also enjoy video editing and marketing. I've been interested in digital design since high school. I'm especially interested in designing for musicians, artists, and small businesses. I hope to continue improving my skills, explore different areas of digital media, and build a portfolio that showcases my work.</p>
+        </section>
+<hr>
+        <section>
+            <h2>Skills</h2>
+            <ul>
+                <li>Customer Service</li>
+                <li>Creativity</li>
+                <li>Attention to Detail</li>
+                <li>Time Management</li>
+                <li>Problem-Solving</li>
+                <li>Organization</li>
+                <li>Communication</li>
+                <li>Pet Care</li>
+                <li>Video Editing</li>
+                <li>Photo Editing</li>
+            </ul>
+        </section>
+<hr>
+        <section>
+            <h2>Software and Hardware</h2>
+            <ul>
+                <li>Adobe Photoshop</li>
+                <li>Adobe Illustrator</li>
+                <li>Adobe InDesign</li>
+                <li>Adobe After Effects</li>
+                <li>CapCut</li>
+                <li>Visual Studio Code</li>
+            </ul>
+        </section>
+<hr>
+        <section>
+            <h2>Social Media & Websites</h2>
+            <ul>
+                <li><a href="https://github.com/simoneclaire" target="_blank">GitHub</a></li>
+            </ul>
+        </section>
+<hr>
+        <section>
+            <h2>Work Samples</h2>
+            <p>Here are some recent examples of projects I have worked on or plan to include in my portfolio.</p>
+            <p><img src="images/poster.jpg" alt="Poster Design" width="300"></p>
+            <p><img src="images/postcard.jpg" alt="Postcard Design" width="300"></p>
+            <p><img src="images/infographic.jpg" alt="Infographic Design" width="300"></p>
+            <p><img src="images/painting.jpg" alt="Peach Painting" width="300"></p>
+            <p><img src="images/socialmediaposter.jpg" alt="Social Media Poster" width="300"></p>
+        </section>
+</body>
+</html>
